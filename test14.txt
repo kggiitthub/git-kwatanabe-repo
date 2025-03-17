@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-main change test14
-=======
-change test14
->>>>>>> download
-change test14
